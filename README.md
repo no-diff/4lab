@@ -1,4 +1,4 @@
-# Lab 4 — Streamlit Data Analysis
+# Lab 4 - Streamlit Data Analysis
 
 Інтерактивний застосунок для аналізу кліматичних індексів (VCI, TCI, VHI) по областях України.
 
